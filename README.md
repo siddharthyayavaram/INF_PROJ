@@ -5,19 +5,20 @@ Classifying Formal and Informal sentences through various Natural Language Proce
 - exp1.pdf --> INFormal
 - exp4.pdf --> pos
 
+
 ### PPT Report for Experiment 1
 https://docs.google.com/presentation/d/1HsHOZDcYkDjtlhnEMs7XtwDO2u2mqyrgfEPACk4Ofdo/edit?usp=sharing
 
-Summarized documentation included as markdown files at the top of the notebook
+__Summarized documentation included as markdown files at the top of the notebook__
 
 Related Research Papers
 
 1. https://arxiv.org/abs/2006.09479
--- contains corpus of idioms and their translated meanings
--- https://github.com/prateeksaxena2809/EPIE_Corpus
+- contains corpus of idioms and their translated meanings
+- https://github.com/prateeksaxena2809/EPIE_Corpus
    
 2. https://arxiv.org/abs/2105.03280
--- https://github.com/tosingithub/idesk
+- https://github.com/tosingithub/idesk
 
 3. https://www.sciencedirect.com/science/article/pii/S0306457321002375
 
