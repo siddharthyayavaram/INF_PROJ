@@ -1,11 +1,9 @@
 # Informal_Formal
-Formal and Informal sentences
+Classifying Formal and Informal sentences through various Natural Language Processing Methods
 
 ## Documentation:
-
-1. exp1.pdf --> INFormal
-
-4. exp4.pdf --> pos
+- exp1.pdf --> INFormal
+- exp4.pdf --> pos
 
 ### PPT Report for Experiment 1
 https://docs.google.com/presentation/d/1HsHOZDcYkDjtlhnEMs7XtwDO2u2mqyrgfEPACk4Ofdo/edit?usp=sharing
@@ -25,10 +23,10 @@ Related Research Papers
 
 4. https://aclanthology.org/L18-1048.pdf
 
-5. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9869485  **
+5. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9869485 
 
 6. https://aclanthology.org/D09-1033.pdf
 
 7. http://www.lrec-conf.org/proceedings/lrec2010/pdf/618_Paper.pdf
 
-8. https://journals.colorado.edu/index.php/lilt/article/view/1305/1137 ** formal-informal classifier **
+8. https://journals.colorado.edu/index.php/lilt/article/view/1305/1137 **formal-informal classifier**
