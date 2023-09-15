@@ -1,7 +1,7 @@
 # Informal_Formal
 Classifying Formal and Informal sentences through various Natural Language Processing Methods
 
-## Documentation:
+## Documentation: (for each folder)
 - exp1.pdf --> INFormal
 - exp2.pdf --> embed_git
 - exp3.pdf --> bert
