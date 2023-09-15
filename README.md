@@ -1,5 +1,5 @@
-# INFormal
-Informal project on Formal and Informal sentences
+# Informal_Formal
+Formal and Informal sentences
 
 ## Documentation:
 
