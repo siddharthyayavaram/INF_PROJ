@@ -1,13 +1,13 @@
 # INFormal
 Informal project on Formal and Informal sentences
 
-##Documentation:
+## Documentation:
 
 1. exp1.pdf --> INFormal
 
 4. exp4.pdf --> pos
 
-###PPT Report for Experiment 1
+### PPT Report for Experiment 1
 https://docs.google.com/presentation/d/1HsHOZDcYkDjtlhnEMs7XtwDO2u2mqyrgfEPACk4Ofdo/edit?usp=sharing
 
 Summarized documentation included as markdown files at the top of the notebook
