@@ -3,6 +3,7 @@ Classifying Formal and Informal sentences through various Natural Language Proce
 
 ## Documentation:
 - exp1.pdf --> INFormal
+- exp2.pdf --> embed_git
 - exp4.pdf --> pos
 
 
