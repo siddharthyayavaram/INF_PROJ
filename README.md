@@ -6,6 +6,7 @@ Classifying Formal and Informal sentences through various Natural Language Proce
 - exp2.pdf --> embed_git
 - exp3.pdf --> bert
 - exp4.pdf --> pos
+- exp5.pdf --> bert [Miscellaneous Experiments using datasets from bert folder]
 
 
 ### PPT Report for Experiment 1
