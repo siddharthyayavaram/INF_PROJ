@@ -17,7 +17,7 @@ __Summarized documentation included as markdown files at the top of the notebook
 Related Research Papers
 
 1. https://arxiv.org/abs/2006.09479
-- contains corpus of idioms and their translated meanings
+- [x] - contains corpus of idioms and their translated meanings
 - https://github.com/prateeksaxena2809/EPIE_Corpus
    
 2. https://arxiv.org/abs/2105.03280
