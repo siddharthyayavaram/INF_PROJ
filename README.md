@@ -1,5 +1,10 @@
 # Informal_Formal
-Classifying Formal and Informal sentences through various Natural Language Processing Methods
+Classifying Formal and Informal sentences through various Natural Language Processing Methods including
+∗ Analysing similarity of words through BERT, MURIL,multilingual BERT embeddings.
+∗ Back- translation using google translate API before comparing Jaccard similarity
+∗ End to end RNN and BERT based classifier and used GPT model for next word prediction
+∗ Graphical analysis of POS(Parts-of-speech) tagging
+∗ K-means clustering of high dimensional embeddings and subsequent visualization
 
 ## Documentation: (for each folder)
 - exp1.pdf --> INFormal
